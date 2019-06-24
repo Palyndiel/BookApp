@@ -29,7 +29,8 @@ import { AuthGuardService } from './services/auth-guard.service';
     BrowserModule,
     FormsModule,
     ReactiveFormsModule,
-    HttpClientModule
+    HttpClientModule,
+    AppRoutingModule
   ],
   providers: [AuthService, BooksService, AuthGuardService],
   bootstrap: [AppComponent]
