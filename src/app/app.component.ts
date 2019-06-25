@@ -7,7 +7,7 @@ import * as firebase from 'firebase';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  constuctor() {
+  constructor() {
   	const config = {
   	  apiKey: "AIzaSyB5HkwnHLUxDZxJ54UIE-CthUs0mGZn2J8",
       authDomain: "bookapp-3575f.firebaseapp.com",
