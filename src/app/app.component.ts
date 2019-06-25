@@ -13,7 +13,7 @@ export class AppComponent {
       authDomain: "bookapp-3575f.firebaseapp.com",
       databaseURL: "https://bookapp-3575f.firebaseio.com",
       projectId: "bookapp-3575f",
-      storageBucket: "",
+      storageBucket: "gs://bookapp-3575f.appspot.com/",
       messagingSenderId: "985110590154",
       appId: "1:985110590154:web:53b72ddd745d505d"
     };
