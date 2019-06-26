@@ -28,6 +28,7 @@
     "firebase": "^6.2.2",
     "rxjs": "~6.4.0",
     "rxjs-compat": "^6.5.2",
+    "express": "^4.16.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
   },
