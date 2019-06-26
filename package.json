@@ -11,8 +11,8 @@
     "postinstall": "ng build --aot --prod"
   },
   "engines": {
-    "node": "12.4.0",
-    "npm": "6.9.0"
+    "node": "~10.16.0",
+    "npm": "~6.9.0"
   },
   "private": true,
   "dependencies": {
@@ -28,7 +28,6 @@
     "firebase": "^6.2.2",
     "rxjs": "~6.4.0",
     "rxjs-compat": "^6.5.2",
-    "express": "^4.16.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
   },
